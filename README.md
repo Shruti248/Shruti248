@@ -1,6 +1,4 @@
 ### Hi there 👋
-![Banner](banner.png)
-
 
 <!--
 **Shruti248/Shruti248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti248&hide=SCSS&layout=pie&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shruti248)](https://git.io/streak-stats)
