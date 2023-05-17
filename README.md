@@ -1,7 +1,6 @@
 ### Hi there 👋
-<p align="right">
-  <img src="banner.png" alt="Banner" width="400">
-</p>
+![Banner](banner.png)
+
 
 <!--
 **Shruti248/Shruti248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
