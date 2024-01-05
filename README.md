@@ -5,7 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
  
-- 🌱 I’m currently learning Microservices , exploring tools like Docker & Kubernetes  
+- 🌱 I’m currently learning Flutter.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
