@@ -57,6 +57,8 @@
 
 <br/>  
 
+[![Shruti`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shruti248&theme=github-compact)](https://github.com/shruti248/github-readme-activity-graph)
+
 
 ## Connect with me  
 <div align="center">
