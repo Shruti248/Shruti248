@@ -59,6 +59,10 @@
 
 [![Shruti`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shruti248&theme=github-compact)](https://github.com/shruti248/github-readme-activity-graph)
 
+<div align="center">
+  <a href="https://gitroll.io/profile/ucEOM35oX1INLsEuuZ7DDOOO6wkk1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ucEOM35oX1INLsEuuZ7DDOOO6wkk1" alt="GitRoll Profile Badge"/></a>
+</div>
+
 
 ## Connect with me  
 <div align="center">
