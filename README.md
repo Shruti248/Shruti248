@@ -1,19 +1,17 @@
 <h2> Hi, I'm Shruti Unadkat! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Developer   </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Full Stack Developer   </a><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
-- 🌱 I’m currently learning Flutter.
-  
+- ❓ Ask me about anything related to MERN stack and related technologies
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ✉️ You can contact me at shrutiunadkat5@gmail.com
 
+  
+- 👯 Let’s team up on your next freelance project!
+  
 <br/>  
 
 
@@ -57,7 +55,13 @@
 
 <br/>  
 
+
 [![Shruti`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shruti248&theme=github-compact)](https://github.com/shruti248/github-readme-activity-graph)
+
+
+![shruti248's Stats](https://github-readme-stats.vercel.app/api?username=shruti248&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![shruti248's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shruti248&theme=vue&hide_border=true)
+
 
 ## Connect with me  
 <div align="center">
