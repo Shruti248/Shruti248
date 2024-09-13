@@ -59,8 +59,8 @@
 [![Shruti`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shruti248&theme=github-compact)](https://github.com/shruti248/github-readme-activity-graph)
 
 
-![shruti248's Stats](https://github-readme-stats.vercel.app/api?username=shruti248&theme=vue&show_icons=true&hide_border=true&count_private=true)
-![shruti248's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shruti248&theme=vue&hide_border=true)
+![shruti248's Stats](https://github-readme-stats.vercel.app/api?username=shruti248&theme=vue&show_icons=true&hide_border=true&count_private=true&width=300&height=200)
+![shruti248's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shruti248&theme=vue&hide_border=true&width=300&height=200)
 
 
 ## Connect with me  
