@@ -69,7 +69,8 @@
 [![Shruti`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shruti248&theme=github-compact)](https://github.com/shruti248/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti248&theme=vue&hide_border=true" alt="shruti248's Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti248&theme=vue&hide_border=true" alt="shruti248's Streak" /> -->
+ [![GitHub Streak](https://streak-stats.demolab.com?user=shruti248&theme=vue&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 
