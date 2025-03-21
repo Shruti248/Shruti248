@@ -2,9 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Full Stack Developer </a><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 </em></p>
-
-
-
  
 - ❓ Ask me about anything related to MERN stack and related technologies
 
